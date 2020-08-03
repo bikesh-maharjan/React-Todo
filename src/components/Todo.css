@@ -1,0 +1,21 @@
+h2 {
+  color: rgba(249, 194, 12, 0.824);
+}
+.main-container {
+  text-align: center;
+}
+.toggle-item {
+  color: darkred;
+  text-align: center;
+}
+.toggle-item:hover {
+  cursor: pointer;
+}
+
+/* form field */
+
+.form-field {
+  background-color: rgb(87, 147, 237);
+  padding: 30px;
+  margin: 5%;
+}
